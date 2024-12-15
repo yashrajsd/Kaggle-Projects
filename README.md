@@ -23,9 +23,7 @@ README.md          -> You are here!
 ```
 
 ## 💡 Projects Featured  
-- **📘 Titanic Survival Prediction**: My take on the classic beginner's problem—predicting survival on the Titanic.  
-- **🛒 Market Basket Analysis**: Insights from transactional data using association rules and clustering techniques.  
-- **🏠 House Price Predictions**: Experimenting with feature engineering and advanced regression models.  
+- To be updates
 
 ## 🚀 Why This Repository?  
 I’m using this space to:  
